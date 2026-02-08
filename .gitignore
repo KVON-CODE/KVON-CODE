@@ -43,13 +43,6 @@ obj/
 *.suo
 .vs/
 
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-venv/
-.env
-
 # System / Analytics
 .DS_Store
 Thumbs.db
