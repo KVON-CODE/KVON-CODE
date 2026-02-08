@@ -1,18 +1,39 @@
-
 # 📉 Case Study: Expense Report Cycle Time Reduction
-[cite_start]**Capstone Project - Kennesaw State University Six Sigma Green Belt** [cite: 1, 3]
+**Kennesaw State University | Six Sigma Green Belt Capstone**
 
-### 📋 Overview
-[cite_start]This technical case study involved leading a cross-functional team to identify and resolve process inefficiencies in a corporate reimbursement workflow. [cite: 5, 7, 22]
+This repository documents a simulated process improvement project focused on optimizing corporate reimbursement workflows. [cite_start]As the **Project Team Lead**, I applied the DMAIC framework to identify root causes of processing delays and modeled data-driven solutions[cite: 7, 15, 22].
 
-### 🔬 Data Analysis Highlights
-* [cite_start]**Hypothesis Testing:** Conducted a **One-Way ANOVA** to compare "Correct" vs. "Defect" reports, resulting in a **P-Value of < 0.001**, statistically proving that reprocessing loops were the primary driver of the 12-day delay. [cite: 119, 120, 124, 126]
-* [cite_start]**Root Cause Identification:** Utilized **Pareto Analysis** to isolate that **67% of defects** originated from "Missing Receipts." [cite: 108, 130]
-* [cite_start]**Process Mapping:** Documented the "Voice of the Process" using a SIPOC/Process Map to identify where system error-proofing (Poka-Yoke) was absent. [cite: 15, 57, 138]
+---
+
+### 📋 Project Overview
+* [cite_start]**Problem Statement:** The average cycle time for expense reports was 12 days, exceeding the 5-day SLA. [cite_start]This caused a 25% employee dissatisfaction rate and $2,500 in annual late fees.
+* [cite_start]**Goal Statement:** Reduce the average cycle time from 12 days to 5 days by March 13, 2026.
+* [cite_start]**Scope:** Domestic travel reports submitted via the portal, from submission to funds deposited[cite: 7].
+
+### 🔬 Statistical Analysis (The "Analyze" Phase)
+[cite_start]I utilized **One-Way ANOVA** and **Pareto Analysis** to move beyond intuition and validate root causes[cite: 105, 107, 183]:
+
+* [cite_start]**ANOVA Results:** Comparing correct reports (4.0 days) vs. defect reports (17.3 days) yielded a **P-Value < 0.001**[cite: 122, 123, 124]. [cite_start]This statistically proved the reprocessing cycle was the primary driver of delays[cite: 126].
+* [cite_start]**Pareto Findings:** **67% of defects** were caused by "Missing Receipts"[cite: 130].
+* [cite_start]**Root Cause (5 Whys):** Identified a lack of system error-proofing (Poka-Yoke); the "Submit" button remained active even if no files were attached[cite: 137, 138, 139].
+
+### 🛠️ Improvements & Controls
+* [cite_start]**Solution Selection:** Due to budget and time constraints, a policy update and standardization of a "Submission Checklist" were implemented[cite: 153, 155, 156].
+* [cite_start]**Standardization:** Updated the SOP to administratively reject reports without receipts within 24 hours[cite: 157].
+* [cite_start]**Sustainability:** Established a Control Plan to monitor reprocessing rates weekly and cycle times monthly[cite: 176].
 
 ### 📈 Simulated Results
-* [cite_start]**Cycle Time Improvement:** Successfully modeled a reduction in average cycle time from **12.0 days to 3.4 days**. [cite: 168]
-* [cite_start]**Error Mitigation:** Reduced the simulated reprocessing rate from **60% to 10%** via standardized SOPs and policy updates. [cite: 169]
+| Metric | Baseline | Target | Post-Improvement |
+| :--- | :--- | :--- | :--- |
+| **Avg Cycle Time** | [cite_start]12.0 Days [cite: 51] | [cite_start]5.0 Days  | [cite_start]**3.4 Days**  |
+| **Reprocessing Rate** | [cite_start]60% [cite: 52] | [cite_start]<10%  | [cite_start]**10%** [cite: 169] |
 
+---
+
+### 📂 Supporting Documents
+* [Full Project Charter (PDF)](./Six-Sigma-Green-Belt-Project-Charter-Capstone-Project.pdf)
+* [Process Map & SIPOC](./process_map.png)
+
+> [cite_start]*"This experience demonstrated how the DMAIC framework can achieve a low-cost solution through data-driven decision-making."* [cite: 185, 186]
 ---
 [Return to Main Repository](../README.md)
