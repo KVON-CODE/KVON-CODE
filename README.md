@@ -13,6 +13,11 @@ I bridge the gap between physical lab science and digital data systems. With a b
 * **Certifications:** PCEP™ – Certified Entry-Level Python Programmer, C++ Certified Entry-Level Programmer, Foundational C#
 
 ### 🛠️ Technical Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Azure](https://img.shields.io/badge/microsoft%20azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - **Languages:** C#, Python, SQL, C++
 - **Data & Science:** GC/MS, FT-IR, LIMS, Tableau, Regression Analysis, Predictive Modeling
 - **Infrastructure:** Windows Tier 1 & 2 Support, BMC Remedy, Microsoft Access & SharePoint
