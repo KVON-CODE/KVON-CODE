@@ -36,6 +36,25 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# Visual Studio / C#
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# System / Analytics
+.DS_Store
+Thumbs.db
+*.log
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
