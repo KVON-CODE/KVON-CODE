@@ -34,6 +34,6 @@ This repository documents a simulated process improvement project focused on opt
 * [Full Project Charter (PDF)](./Six-Sigma-Green-Belt-Project-Charter-Capstone-Project.pdf)
 * [Process Map & SIPOC](./process_map.png)
 
-> [cite_start]*"This experience demonstrated how the DMAIC framework can achieve a low-cost solution through data-driven decision-making."* [cite: 185, 186]
+> *"This experience demonstrated how the DMAIC framework can achieve a low-cost solution through data-driven decision-making."* 
 ---
 [Return to Main Repository](../README.md)
