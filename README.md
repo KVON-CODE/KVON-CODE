@@ -24,7 +24,7 @@ I bridge the gap between physical lab science and digital data systems. With a b
 
 ### 📂 Featured Projects
 
-#### 📉 [01: Expense Report Cycle Time Reduction (Six Sigma)](./01_Six_Sigma_Cycle_Time/)
+#### 📉 [01: Expense Report Cycle Time Reduction (Six Sigma)](./Six_Sigma_Expense_Reduction/)
 *Applied DMAIC methodology and Python (ANOVA) to reduce process lag by 71%.*
 - **Skills:** ANOVA, Process Optimization, Seaborn, Matplotlib.
 - **Impact:** Recovered $7,500 in annual value and reduced cycle time from 12 days to 3.4 days.
