@@ -23,7 +23,6 @@ Using **One-Way ANOVA**, I moved beyond intuition to statistically validate the 
 * **Root Cause**: The process relied on human vigilance rather than system controls (Poka-Yoke) to ensure data quality.
 
 
-
 ### 🛠️ Improvement & Control
 * **Selected Solution**: Implemented a mandatory submission checklist and updated the Standard Operating Procedure (SOP).
 * **Policy Update**: New rule mandates administrative rejection of reports without receipts within 24 hours.
