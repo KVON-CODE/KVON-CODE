@@ -4,6 +4,9 @@
 ### 📋 Executive Summary
 This project optimized a corporate reimbursement process that was failing to meet its 5-day Service Level Agreement (SLA). As the **Project Team Lead**, I managed a cross-functional team to identify root causes for a 12-day average cycle time and implemented data-driven improvements.
 
+![ANOVA Results](./images/Six_Sigma_ANOVA_Results.png)
+*Figure 1: Statistical comparison of process cycle times before and after intervention.*
+
 ---
 
 ### 🔍 The Problem (Define & Measure)
@@ -20,7 +23,8 @@ Using **One-Way ANOVA**, I moved beyond intuition to statistically validate the 
 * **Group B (Defect Reports)**: 17.3 Days average.
 * **P-Value**: < 0.001 (Confirming a statistically significant difference).
 * **Pareto Analysis**: Revealed that **67% of defects** were caused by "Missing Receipts".
-* **Root Cause**: The process relied on human vigilance rather than system controls (Poka-Yoke) to ensure data quality.
+* **Root Cause**: The process relied on human vigilance rather than system controls (**Poka-Yoke**) to ensure data quality.
+
 
 
 ### 🛠️ Improvement & Control
@@ -34,12 +38,11 @@ Using **One-Way ANOVA**, I moved beyond intuition to statistically validate the 
 | **Avg Cycle Time** | 12.0 Days | 5.0 Days | **3.4 Days** |
 | **Reprocessing Rate** | 60% | <10% | **10%** |
 
-
-
 ---
 
 ### 📂 Supporting Evidence
-* **Full Project Charter**: [View PDF](./Six-Sigma-Green-Belt-Project-Charter-Capstone-Project.pdf)
+* **Jupyter Notebook**: [View Analysis Code](./Six_Sigma_Cycle_Time_Analysis.ipynb)
+* **Full Project Charter**: [View PDF Report](./docs/Six-Sigma-Green-Belt-Project-Charter-Capstone-Project.pdf)
 * **Methodology**: DMAIC (Define, Measure, Analyze, Improve, Control)
 
 ---
