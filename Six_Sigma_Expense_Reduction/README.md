@@ -42,7 +42,7 @@ Using **One-Way ANOVA**, I moved beyond intuition to statistically validate the 
 
 ### 📂 Supporting Evidence
 * **Jupyter Notebook**: [View Analysis Code](./Six_Sigma_Cycle_Time_Analysis.ipynb)
-* **Jupyter Notebook (.PDF alternative)**: [View Analysis Code PDF](./docs/Six_Sigma_Cycle_Time_Analysis.pdf)
+* **Jupyter Notebook (.PDF alternative)**: [View Analysis Code PDF](./docs/Six-Sigma-Green-Belt-Project-Jupyter-Notebook.pdf)
 * **Full Project Charter**: [View PDF Report](./docs/Six-Sigma-Green-Belt-Project-Charter-Capstone-Project.pdf)
 * **Methodology**: DMAIC (Define, Measure, Analyze, Improve, Control)
 
