@@ -24,5 +24,6 @@ The system processes raw Excel data through a custom **Temporal Attribution Engi
 ## **How to Review Results**
 Open the `test_material/Audit_Result_Output.xlsx` file to see the engine in action:
 * **🔵 Blue**: Standard Primary Duty hours.
-* **🔴 Red**: Overlap Conflict (Potential Fraud) or Safety Limit violation.
-* **🟣 Purple**: Duplicate primary employment entries (System Error).
+* **⚪ Gray**: Secondary Employment hours.
+* **🔴 Red**: Overlap Conflict (Potential Fraud), two shifts in the same time block, or Safety Limit violation exceeding 16.5 hours in a 24-hour period.
+* **🟣 Purple**: Primary employment entries cross-over, two duty shifts in the same time block to detect overtime padding.
