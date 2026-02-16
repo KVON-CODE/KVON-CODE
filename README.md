@@ -34,8 +34,8 @@ I bridge the gap between physical lab science and digital data systems. With a b
 - **Skills:** C#, Data Integrity, Logic-based Auditing.
 
 #### 🧪 [03: Google Adv. Data Analytics Projects](./Google_Projects/)
-*Developing an AI agent framework to track chemical lots and expiration dates.*
-- **Skills:** Python, LIMS integration, Automation.
+*Projects related to coursework for Google Advanced Data Analytics Professional Certificate.*
+- **Skills:** Jupyter Notebooks, Python, Data Modeling, Linear Regression, Logistic Regression, Exploratory Data Analysis (EDA).
 ---
 
 ### 📈 GitHub Stats
