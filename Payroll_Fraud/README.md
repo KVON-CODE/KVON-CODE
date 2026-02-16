@@ -8,7 +8,7 @@ The system processes raw Excel data through a custom **Temporal Attribution Engi
 
 * **Midnight Crossover Adjustment**: Automatically detects and links shifts spanning across two calendar days (e.g., 22:00 to 06:00) to ensure chronological continuity.
 * **16.5-Hour Safety Guardrail**: Flags any single shift or combination of shifts exceeding the 16.5-hour safety limit in **RED** on the final dashboard.
-* **Conflict Detection**: Utilizes logic-based auditing to identify "Primary Duty" and "Secondary Duty" overlaps occurring within the same hour, flagging potential fraud for manual review.
+* **Conflict Detection**: Utilizes logic-based auditing to identify "Primary Duty" and "Secondary Duty" overlaps occurring within the same hour in **RED**, flagging potential fraud for manual review.
 
 ## **Technical Stack**
 * **Language**: C# (.NET Framework).
@@ -18,7 +18,7 @@ The system processes raw Excel data through a custom **Temporal Attribution Engi
 
 ## **Repository Structure**
 * **`/src`**: Contains `MainWindow.xaml.cs`, the functional forensic engine logic.
-* **`/test_material`**: Includes anonymized sample inputs and the resulting audit dashboard to demonstrate functional success.
+* **`/test_material`**: Includes anonymized sample inputs and the resulting audit dashboard to demonstrate functional success, and an empty log file.
 * **`packages.config`**: Manifest of NuGet dependencies (OpenXML, SpreadsheetLight).
 
 ## **How to Review Results**
