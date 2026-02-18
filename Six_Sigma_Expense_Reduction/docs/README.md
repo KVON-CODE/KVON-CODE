@@ -10,4 +10,4 @@ This directory houses the formal written deliverables and the static versions of
     * A static, high-fidelity export of the Jupyter Notebook containing the full Python source code and statistical results.
 
 ---
-[⬅️ Back to Project Analysis](../README.md)
+[⬅️ Back to Six Sigma Expense Reduction](../README.md)
