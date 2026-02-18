@@ -1,6 +1,6 @@
 # NYC TLC: Exploratory Data Analysis & Visualization
 
-[← Back to Main Project Series](../README.md)
+[← Back to Main Project Series](../)
 
 ## Executive Summary
 
@@ -39,4 +39,5 @@ Exploratory analysis identified significant data anomalies where high fares were
 
 ---
 
-[← Back to Main Project Series](../README.md)
+[← Back to Main Project Series](../)
+
