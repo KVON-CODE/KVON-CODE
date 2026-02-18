@@ -5,7 +5,7 @@ This directory contains Course Projects <!-- and a Capstone Project --> for cour
 
 ## Folders
 
-* **[NYC TLC 2017 Projects](./NYC_TLC_2017_PROJECTS):** Coursework projects involving New York City Taxi and Limo Commission data from 2017.
+* **[NYC TLC 2017 Projects](./NYC_TLC_2017_PROJECTS/README.md):** Coursework projects involving New York City Taxi and Limo Commission data from 2017.
 <!-- * **[FINAL CAPSTONE PROJECT](./CAPSTONE_PROJECT):** WORDS. -->
 
 
@@ -13,3 +13,4 @@ This directory contains Course Projects <!-- and a Capstone Project --> for cour
 ---
 
 [← Back to Main Portfolio](../README.md)
+
