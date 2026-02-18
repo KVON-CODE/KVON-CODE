@@ -1,4 +1,4 @@
-# 📉 Case Study: Expense Report Cycle Time Reduction
+# 📉 Mock Case Study: Expense Report Cycle Time Reduction
 **Kennesaw State University | Six Sigma Green Belt Capstone**
 
 ### 📋 Executive Summary
