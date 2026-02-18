@@ -19,12 +19,12 @@ The system processes raw Excel data through a custom **Temporal Attribution Engi
 * **Reporting**: Automated generation of color-coded Excel dashboards with diagnostic audit logs.
 
 ## **Repository Structure**
-* **[`/src`]**: Contains `MainWindow.xaml.cs`, the functional forensic engine logic.
-* **[`/test_material`]**: Includes anonymized sample inputs and the resulting audit dashboard to demonstrate functional success, and an empty log file.
-* **[`packages.config`]**: Manifest of NuGet dependencies (OpenXML, SpreadsheetLight).
+* **[`/src`](./src/README.md)**: Contains `MainWindow.xaml.cs`, the functional forensic engine logic.
+* **[`/test_material`](./test_material/README.md)**: Includes anonymized sample inputs and the resulting audit dashboard to demonstrate functional success, and an empty log file.
+* **[`packages.config`](./packages.config)**: Manifest of NuGet dependencies (OpenXML, SpreadsheetLight).
 
 ## **How to Review Results**
-Open the audit file [`test_material/COMBINE-ADP-DETAILS-ADP-2018.xslx`](./test_material/COMBINE-ADP-DETAILS-ADP-2018.xslx) file to see the engine in action:
+Open the audit file [`test_material/COMBINE-ADP-DETAILS-ADP-2018.xslx`](./test_material/README.md) file to see the engine in action:
 * **🔵 Blue**: Standard Primary Duty hours.
 * **⚪ Gray**: Secondary Employment hours.
 * **🔴 Red**: Overlap Conflict (Potential Fraud), two shifts in the same time block, or Safety Limit violation exceeding 16.5 hours in a 24-hour period.
