@@ -38,11 +38,11 @@ I bridge the gap between physical lab science and digital data systems. With a b
 - **Skills:** Jupyter Notebooks, Python, Data Modeling, Linear Regression, Logistic Regression, Exploratory Data Analysis (EDA).
 ---
 
+<!--
 ### 📈 GitHub Stats
 ![Karl's GitHub stats](https://github-readme-stats.vercel.app/api?username=KVON-CODE&show_icons=true&theme=radical)
-
 ---
-
+-->
 ### 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/karlvonderhaar/) | [Portfolio](https://github.com/KVON-CODE)
 
