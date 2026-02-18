@@ -3,6 +3,8 @@
 ## **Project Overview**
 This tool was engineered to automate the forensic auditing of payroll datasets to identify shift overlaps, "Midnight Crossover" discrepancies, and compliance violations. By migrating from a manual review process to this automated C# engine, this program was pivotal in a Civic Oversight initiative to prevent wide-spread, systemic payroll fraud at a local police department.
 
+[⬅️ Return to Main Folder](../README.md)
+
 ## **Key Forensic Logic**
 The system processes raw Excel data through a custom **Temporal Attribution Engine** to map shifts into a 24-hour matrix:
 
@@ -28,6 +30,6 @@ Open the `test_material/Audit_Result_Output.xlsx` file to see the engine in acti
 * **🔴 Red**: Overlap Conflict (Potential Fraud), two shifts in the same time block, or Safety Limit violation exceeding 16.5 hours in a 24-hour period.
 * **🟣 Purple**: Primary employment entries cross-over, two duty shifts in the same time block to detect overtime padding.
 
-[⬅️ Return to Main Folder](../)
+[⬅️ Return to Main Folder](../README.md)
 
 ![Audit Result Preview](./test_material/audit-image.png)
