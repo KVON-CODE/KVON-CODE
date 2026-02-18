@@ -9,4 +9,4 @@ This directory contains the high-resolution charts and visualizations generated 
     * **Usage:** Featured in the main project README to provide an immediate visual of the ROI.
 
 ---
-[⬅️ Back to Project Analysis](../README.md)
+[⬅️ Back to Six Sigma Expense Reduction](../README.md)
