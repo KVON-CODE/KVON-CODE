@@ -12,5 +12,5 @@ This directory contains Course Projects <!-- and a Capstone Project --> for cour
 
 ---
 
-[← Back to Main Portfolio](../README.md)
+[⬅️ Back to Main Portfolio](../README.md)
 
