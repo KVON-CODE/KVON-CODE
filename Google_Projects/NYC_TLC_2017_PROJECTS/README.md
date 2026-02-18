@@ -10,7 +10,7 @@ This directory contains a multi-stage analytical investigation into the 2017 New
 * **[02_Statistical_Analysis](./02_Statistical_Analysis/README.md):** Application of hypothesis testing and inferential statistics to verify significant differences in vendor performance and fare distributions.
 * **[03_Linear_Regression](./03_Linear_Regression/README.md):** Development of a baseline regression model to quantify the predictive relationship between trip distance and total fare amounts.
 <!-- * **[03_Machine_Learning](./04_Machine_Learning/README.md):** Understanding and fundamentals of using machine learning to predicit future outcomes and make forecast observations. -->
-* **[data](./data/2017_Yellow_Taxi_Trip_Data.csv):** Centralized repository for the raw and processed CSV files utilized across the various stages of the project.
+* **[data](./data):** Centralized repository for the raw and processed CSV files utilized across the various stages of the project.
 
 
 
