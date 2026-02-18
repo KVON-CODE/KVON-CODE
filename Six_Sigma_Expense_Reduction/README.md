@@ -1,5 +1,5 @@
 # 📉 Mock Case Study: Expense Report Cycle Time Reduction
-**Kennesaw State University | Six Sigma Green Belt Capstone**
+**Kennesaw State University | Six Sigma Green Belt Capstone Project**
 
 ### 📋 Executive Summary
 This project optimized a corporate reimbursement process that was failing to meet its 5-day Service Level Agreement (SLA). As the **Project Team Lead**, I managed a cross-functional team to identify root causes for a 12-day average cycle time and implemented data-driven improvements.
