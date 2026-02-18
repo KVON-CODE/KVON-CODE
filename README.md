@@ -1,6 +1,6 @@
 # Hi, I'm Karl Vonderhaar (KVON-CODE) 👋
 
-### Analytical Data Professional | B.S. Chemist | Forensic Analyst
+### Analytical Data Professional | B.S. Chemistry | Forensic Analyst
 
 I bridge the gap between physical lab science and digital data systems. With a background in forensic chemistry and expert witness testimony, I apply a "zero-error" mindset to C#, Python, and Cybersecurity.
 
