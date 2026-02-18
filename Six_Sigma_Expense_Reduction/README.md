@@ -1,3 +1,4 @@
+[⬅️ Return to Main Folder](../README.md)
 # 📉 Mock Case Study: Expense Report Cycle Time Reduction
 **Kennesaw State University | Six Sigma Green Belt Capstone Project**
 
