@@ -24,16 +24,16 @@ I bridge the gap between physical lab science and digital data systems. With a b
 
 ### 📂 Featured Projects
 
-#### 📉 [01: Expense Report Cycle Time Reduction (Six Sigma Green Belt Capstone Project)](./Six_Sigma_Expense_Reduction/)
+#### 📉 [01: Expense Report Cycle Time Reduction (Six Sigma Green Belt Capstone Project)](./Six_Sigma_Expense_Reduction/README.md)
 *Applied DMAIC methodology and Python (ANOVA) to reduce process lag by 71%.*
 - **Skills:** ANOVA, Process Optimization, Seaborn, Matplotlib.
 - **Impact:** Recovered $7,500 in annual value and reduced cycle time from 12 days to 3.4 days.
 
-#### 🕵️‍♂️ [02: C# Payroll Fraud Detection Tool](./Payroll_Fraud/)
+#### 🕵️‍♂️ [02: C# Payroll Fraud Detection Tool](./Payroll_Fraud/README.md)
 *A forensic auditing tool designed to identify anomalies in payroll datasets.*
 - **Skills:** C#, Data Integrity, Logic-based Auditing.
 
-#### 🧪 [03: Google Adv. Data Analytics Projects](./Google_Projects/)
+#### 🧪 [03: Google Adv. Data Analytics Projects](./Google_Projects/README.md)
 *Projects related to coursework for Google Advanced Data Analytics Professional Certificate.*
 - **Skills:** Jupyter Notebooks, Python, Data Modeling, Linear Regression, Logistic Regression, Exploratory Data Analysis (EDA).
 ---
