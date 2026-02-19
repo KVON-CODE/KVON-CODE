@@ -2,7 +2,7 @@
 # 📉 Mock Case Study: Expense Report Cycle Time Reduction
 **Kennesaw State University | Six Sigma Green Belt Capstone Project**
 
-### 📋 Executive Summary
+### Executive Summary
 This project optimized a corporate reimbursement process that was failing to meet its 5-day Service Level Agreement (SLA). As the **Project Team Lead**, I managed a cross-functional team to identify root causes for a 12-day average cycle time and implemented data-driven improvements.
 
 ![ANOVA Results](./images/Six_Sigma_ANOVA_Results.png)
@@ -10,14 +10,14 @@ This project optimized a corporate reimbursement process that was failing to mee
 
 ---
 
-### 🔍 The Problem (Define & Measure)
+### The Problem (Define & Measure)
 * **Problem Statement**: The average cycle time for expense reports was 12 days, resulting in a 25% dissatisfaction rate and approximately $2,500 annually in late charges.
 * **Baseline Metrics**: 
     * **Average Cycle Time**: 12.0 Days.
     * **Reprocessing Rate**: 60% of reports required corrections.
 * **Goal**: Reduce the average cycle time to 5 days by March 13, 2026.
 
-### 🔬 Statistical Analysis (Analyze)
+### Statistical Analysis (Analyze)
 Using **One-Way ANOVA**, I moved beyond intuition to statistically validate the root cause of delays:
 
 * **Group A (Correct Reports)**: 4.0 Days average.
@@ -28,12 +28,12 @@ Using **One-Way ANOVA**, I moved beyond intuition to statistically validate the 
 
 
 
-### 🛠️ Improvement & Control
+### Improvement & Control
 * **Selected Solution**: Implemented a mandatory submission checklist and updated the Standard Operating Procedure (SOP).
 * **Policy Update**: New rule mandates administrative rejection of reports without receipts within 24 hours.
 * **Sustainability**: Established a weekly Control Plan to monitor reprocessing rates.
 
-### 📊 Final Results (Simulated)
+### Final Results (Simulated)
 | Metric | Baseline | Goal | Result (March 2026) |
 | :--- | :--- | :--- | :--- |
 | **Avg Cycle Time** | 12.0 Days | 5.0 Days | **3.4 Days** |
