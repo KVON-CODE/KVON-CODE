@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Payroll Fraud Detection & Audit Tool
+# Payroll Fraud Detection & Audit Tool
 
 ## **Project Overview**
 This tool was engineered to automate the forensic auditing of payroll datasets to identify shift overlaps, "Midnight Crossover" discrepancies, and compliance violations. By migrating from a manual review process to this automated C# engine, this program was pivotal in a Civic Oversight initiative to prevent wide-spread, systemic payroll fraud at a local police department.
