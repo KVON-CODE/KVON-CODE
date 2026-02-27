@@ -38,6 +38,11 @@ I bridge the gap between physical lab science and digital data systems. With a b
 - **Skills:** Jupyter Notebooks, Python, Data Modeling, Linear Regression, Logistic Regression, Exploratory Data Analysis (EDA).
 ---
 
+### [OmniTransfer](https://github.com/KVON-CODE/OmniTransfer)
+**WPF-based high-speed, multi-threaded file migration utility integrating Robocopy into a functional UI.**
+* Managed via Git Submodules for modular project tracking.
+* Features thread concurrency and Windows Shell integration.
+
 <!--
 ### GitHub Stats
 ![Karl's GitHub stats](https://github-readme-stats.vercel.app/api?username=KVON-CODE&show_icons=true&theme=radical)
